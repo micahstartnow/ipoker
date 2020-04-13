@@ -1,6 +1,12 @@
 Poker
 =====
 
-A poker application running on node.js with socket.io, using angularJS on the front-end for data binding.
+A poker application running on node.js.
 
-View a demo of the work in progress [here](http://dev.tableflippoker.com/)
+express.js 4.x.x
+socket.io
+connect.js
+
+git clone
+npm install
+npm start
